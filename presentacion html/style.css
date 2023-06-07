@@ -1,0 +1,28 @@
+body {
+    background-color: beige;
+
+}
+
+.contenedor-principal {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.tamañoimg {
+    width: 300px;
+}
+
+.presentacion {
+    color: green;
+}
+
+.nombre {
+    color: black;
+    background-color: white;
+    width: 400px;
+    margin-left: 460px;
+}
+
+li {
+    list-style: none;
+}
